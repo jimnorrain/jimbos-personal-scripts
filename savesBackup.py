@@ -1,6 +1,8 @@
 # Created by J. Rain
 # 11/2022
 
+# Needs 2-column .csv file with SOURCE_DIR,TARGET_DIR formatting.
+
 import os
 import shutil
 import csv
